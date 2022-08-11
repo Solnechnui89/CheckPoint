@@ -22,7 +22,7 @@
 ![Code](CodeVS.jpg)
 
 Также эта информация представлена на блок-схеме:
-![BlockSchema](BlockSchema.png)
+![BlockSchema](Algoritm.png)
 
 а также она представлена в папке *"BlockSchema"* в формате *png* 
 
